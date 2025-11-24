@@ -1,2 +1,11 @@
+ad37834 finish Task 2.4
+9b792b5 update log.txt for Task 2.3
+f1deb6a finish Task 2.3
+a815a80 update log.txt for Task 2.2
+f05c2e7 finish Task 2.2
+2eb7a65 update log.txt for Task 2.1
+91f1cb2 finish Task 2.1
+d28c405 Merge pull request #1 from khoitran1206/task1
+c0c50d0 update log.txt file for Task 1.2
 62eeb54 fix checkstyle for Task 1.1
 4a5f819 Initial commit
