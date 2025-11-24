@@ -1,3 +1,5 @@
+f05c2e7 finish Task 2.2
+2eb7a65 update log.txt for Task 2.1
 91f1cb2 finish Task 2.1
 d28c405 Merge pull request #1 from khoitran1206/task1
 c0c50d0 update log.txt file for Task 1.2
